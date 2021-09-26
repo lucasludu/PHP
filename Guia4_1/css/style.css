@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 500px;
+    height: auto;
+    margin: 10px auto;
+    background-color: #FAFFFF;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px 5px;
+    margin-top: 50px;
+}
+
+.ref {
+    text-decoration: none;
+    color: blue;
+    padding: 2px 4px;
+    font-weight: bold;
+    border: 1px solid;
+}
+
+.ref:hover {
+    color: #FFFFFF;
+    background-color: blue;
+}
+
