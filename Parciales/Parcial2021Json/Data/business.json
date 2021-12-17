@@ -1,0 +1,16 @@
+[
+    {
+        "businessId": 1,
+        "category": "Cerveceria",
+        "name": "Baum",
+        "email": "baum@gmail.com",
+        "address": "Libertad 1100"
+    },
+    {
+        "businessId": 2,
+        "category": "Cerveceria",
+        "name": "Baum",
+        "email": "baum@gmail.com",
+        "address": "Libertad 1100"
+    }
+]
